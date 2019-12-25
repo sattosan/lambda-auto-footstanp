@@ -1,0 +1,6 @@
+bin
+*.zip
+selenium*
+__pycache__
+urllib3-1.25.7.dist-info/
+urllib3/
